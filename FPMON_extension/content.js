@@ -1,4 +1,4 @@
-// Disclaimer: I asked Claude to optimize the extension as it originally caused an abnormally high CPU and RAM consumption (like, GB to high).
+// Disclaimer: I asked Claude to optimize the extension as it originally caused an abnormally high CPU and RAM consumption (like, GB too high).
 var s = document.createElement("script"),
     glob_extension_score = {},
     glob_csv = "",
